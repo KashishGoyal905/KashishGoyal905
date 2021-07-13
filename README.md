@@ -1,11 +1,12 @@
-### Hola Kashish Here!👋
+### Hi There,I'm Kashish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KashishGoyal905&label=Views&color=blue&style=plastic" alt="KashishGoyal905" /> </p>
 
-- 🔭 I’m currently working on My Personality😎
-- 🌱 I’m currently learning MongoDb🌿
+- 🔭 I’m currently working on Many Projects😎
+- 🌱 I’m currently learning 🌿MongoDb
 - 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about- Web Development
+- 💬 Ask me about anything related to Web Devlopment
+- 🤔 I’m looking for help with Express & MongoDb
 - 📫 How to reach me: [Instagram](https://www.instagram.com/kashu_since_2003/?hl=en), [LinkedIn](https://www.linkedin.com/in/kashish-goyal-348846210/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Lists are better than large paragraphs🙂
@@ -28,6 +29,10 @@
 
 <br />
 <br />
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=KashishGoyal905&theme=radical&hide_title=true&hide_border=true&langs_count=5)
+
 
 <div align="left">
 <a href="https://github.com/KashishGoyal905">
