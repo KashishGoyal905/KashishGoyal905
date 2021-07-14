@@ -30,9 +30,8 @@
 <br />
 <br />
 📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=KashishGoyal905&theme=radical&hide_title=true&hide_border=true&langs_count=5)
-
+<br>
+<a href="https://wakatime.com"><img height="400px" width="400px" src="https://wakatime.com/share/@KashishGoyal905/a6d33e69-5b58-4322-8c3f-0978a49fe87d.png" /></a>
 
 <div align="left">
 <a href="https://github.com/KashishGoyal905">
@@ -48,3 +47,4 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
