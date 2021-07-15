@@ -29,9 +29,9 @@
 
 <br />
 <br />
-📊 **This week I spent my time on**
+<!-- 📊 **This week I spent my time on** -->
 <br>
-<a href="https://wakatime.com"><img height="400px" width="400px" src="https://wakatime.com/share/@KashishGoyal905/a6d33e69-5b58-4322-8c3f-0978a49fe87d.png" /></a>
+<!-- <a href="https://wakatime.com"><img height="400px" width="400px" src="https://wakatime.com/share/@KashishGoyal905/a6d33e69-5b58-4322-8c3f-0978a49fe87d.png" /></a> -->
 
 <div align="left">
 <a href="https://github.com/KashishGoyal905">
