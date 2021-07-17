@@ -63,15 +63,6 @@
 <br/>
 <br/>
 
-## 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/kashish-goyal-348846210/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/kashu_since_2003/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
 
 <!--START_SECTION:waka-->
 ```text
@@ -83,6 +74,16 @@ CSS          15 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+
+## 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/kashish-goyal-348846210/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/kashu_since_2003/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
 <!-- 
 📊 This week I spent my time on
   <br/>
