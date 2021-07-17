@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px">,I'm Kashish!</h1>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px">,I'm Kashish! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25px"></h1>
 
 ## ❤ Views and Followers
 <p align="left">
@@ -11,7 +11,7 @@
 </p>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25px">
 - 🔭 I’m currently working on [Yelcamp-Project](https://github.com/KashishGoyal905/Yelpcamp-Project)
 - 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate on **Open Source Projects**
@@ -63,7 +63,8 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/kashish-goyal-348846210/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -71,6 +72,25 @@
 
 
 </p>
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+<!--END_SECTION:waka-->
 
 <!-- 
 📊 This week I spent my time on
