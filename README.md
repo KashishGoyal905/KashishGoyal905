@@ -4,9 +4,9 @@
 
 ## ❤ Views and Followers
 <p align="left">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=KashishGoyal905">
-</a>
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61905%20lines%20of%20code-blue)
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
@@ -15,10 +15,9 @@
 - 🔭 I’m currently working on [Yelcamp-Project](https://github.com/KashishGoyal905/Yelpcamp-Project)
 - 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about anything related to Web Devlopment
 - 📫 How to reach me: [Instagram](https://www.instagram.com/kashu_since_2003/?hl=en), [LinkedIn](https://www.linkedin.com/in/kashish-goyal-348846210/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Lists are better than large paragraphs🙂
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Lists** are better than large **paragraphs🙂**
 
 
 ### Tools and Languages:
@@ -65,17 +64,15 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61905%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61905%20lines%20of%20code-blue) -->
 
 **🐱 My Github Data** 
 
 > 🏆 269 Contributions in the Year 2021
  > 
 > 📦 114.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
  > 
@@ -116,12 +113,6 @@ EJS                      1 hr 37 mins        ███░░░░░░░░�
 HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
 CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
 
-🔥 Editors: 
-VS Code                  13 hrs 37 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  13 hrs 37 mins      █████████████████████████   100.0%
-
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,12 +125,10 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ```
 
-
+<!-- 
 **Timeline**
-
 ![Chart not found](https://raw.githubusercontent.com/KashishGoyal905/KashishGoyal905/main/charts/bar_graph.png) 
-
-
+ -->
  Last Updated on 18/07/2021
 <!--END_SECTION:waka-->
 
@@ -153,12 +142,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 </p>
-<!-- 
-📊 This week I spent my time on
-  <br/>
-<a href="https://wakatime.com"><img height="400px" width="400px" src="https://wakatime.com/share/@KashishGoyal905/a6d33e69-5b58-4322-8c3f-0978a49fe87d.png" /></a>
-  <div align="center"> -->
-  
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
