@@ -114,7 +114,7 @@ HTML                     45 mins             █░░░░░░░░░░�
 CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
 
 ```
-
+<!-- 
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -125,7 +125,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ```
 
-<!-- 
+
 **Timeline**
 ![Chart not found](https://raw.githubusercontent.com/KashishGoyal905/KashishGoyal905/main/charts/bar_graph.png) 
  -->
