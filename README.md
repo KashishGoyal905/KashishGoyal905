@@ -20,6 +20,8 @@
  <a> <img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+ <a><img src="https://img.icons8.com/officel/50/4a90e2/java-eclipse.png" width="48" height="48"/></a>
+ <a><img src="https://img.icons8.com/wired/64/fa314a/postman-api.png" width="48" height="48"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
