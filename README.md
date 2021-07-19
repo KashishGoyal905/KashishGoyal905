@@ -2,14 +2,6 @@
 
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px">,I'm Kashish! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25px"></h1>
 
-## ❤ Views and Followers
-<p align="left">
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61905%20lines%20of%20code-blue)
-<a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-
 
 ## 🙋‍♂️ About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25px">
 - 🔭 I’m currently working on [Yelcamp-Project](https://github.com/KashishGoyal905/Yelpcamp-Project)
@@ -62,10 +54,11 @@
 <br/>
 <br/>
 
+## ❤ Followers and  Views 
 
+<a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62297%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
