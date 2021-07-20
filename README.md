@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Yelpcamp-Project](https://github.com/KashishGoyal905/Yelpcamp-Project)
 - 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: [Instagram](https://www.instagram.com/kashu_since_2003/?hl=en), [LinkedIn](https://www.linkedin.com/in/goyal-kashish)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/kashu_since_2003/?hl=en), [LinkedIn](https://www.linkedin.com/in/KashishGoyal905)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Lists** are better than large **paragraphs🙂**
 
@@ -124,7 +124,7 @@ CSS                      15 mins             ░░░░░░░░░░░�
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/goyal-kashish"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/KashishGoyal905"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/kashu_since_2003/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
