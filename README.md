@@ -43,7 +43,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="45px">
   <br/>
     <a href="https://github.com/KashishGoyal905/github-readme-stats"><img alt="Kashish Goyal Github Stats" src="https://github-readme-stats.vercel.app/api?username=KashishGoyal905&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/KashishGoyal905/github-readme-stats"><img alt="Kashish Goyal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashishGoyal905&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
@@ -61,6 +61,12 @@
 ## ❤ Followers and  Views 
 
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align="center">
+  <img src="https://github.com/KashisGoyal905/KashishGoyal905/blob/main/github-contribution-grid-snake.svg"/>
+</p>
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
 
@@ -118,6 +124,10 @@ HTML                     37 mins             ░░░░░░░░░░░�
 
  Last Updated on 23/07/2021
 <!--END_SECTION:waka-->
+<div align="center">
+ <br/>
+	
+
 
 
 ## 
@@ -130,6 +140,8 @@ HTML                     37 mins             ░░░░░░░░░░░�
 
 </p>
 
-<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+### <h1>Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My [repositories](https://github.com/KashishGoyal905?tab=repositories)!<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Rocket.gif" width="25px"></h1>
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
+</div>
 
 
