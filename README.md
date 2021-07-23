@@ -43,7 +43,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="45px">
+## 📊 My Github Stats<img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/Developer.gif" width="45px">
   <br/>
     <a href="https://github.com/KashishGoyal905/github-readme-stats"><img alt="Kashish Goyal Github Stats" src="https://github-readme-stats.vercel.app/api?username=KashishGoyal905&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/KashishGoyal905/github-readme-stats"><img alt="Kashish Goyal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashishGoyal905&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
