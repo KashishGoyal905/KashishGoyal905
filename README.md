@@ -125,13 +125,12 @@ HTML                     37 mins             ░░░░░░░░░░░�
 
 
 
-## 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/KashishGoyal905"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/kashu_since_2003/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
+<p align="center">
+<a href="mailto:bharatclan668@gmail.com"><img alt="mail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
+<a href="https://github.com/KashishGoyal905"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+<a href="https://www.linkedin.com/in/KashishGoyal905"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<a href= "https://www.instagram.com/kashu_since_2003/?hl=en"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 
 </p>
 
