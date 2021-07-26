@@ -18,6 +18,7 @@
  <p align="left"> 
   <a  href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a>
  <a> <img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+	<a><img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/GitKraken.png" width="48" height="48"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
  <a><img src="https://img.icons8.com/officel/50/4a90e2/java-eclipse.png" width="48" height="48"/></a>
@@ -32,6 +33,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
   <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
  <a> <img src="https://img.icons8.com/dotty/80/fa314a/sql.png" width="48" height="48"/> </a>
+	<a><img src="https://img.icons8.com/color/48/000000/python--v1.png"width="48" height="48"/> </a>
  
 </p>
 
