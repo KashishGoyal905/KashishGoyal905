@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **Lists** are better than large **paragraphs🙂**
 
 
-### Tools and Languages:
+### Tools and Languages:-
 
  
  <p align="left"> 
