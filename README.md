@@ -65,13 +65,13 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38200%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 408 Contributions in the Year 2021
+> 🏆 409 Contributions in the Year 2021
  > 
 > 📦 116.1 kB Used in Github's Storage 
  > 
@@ -115,7 +115,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
