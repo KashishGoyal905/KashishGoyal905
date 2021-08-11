@@ -65,15 +65,15 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38170%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38322%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 413 Contributions in the Year 2021
+> 🏆 416 Contributions in the Year 2021
  > 
-> 📦 116.1 kB Used in Github's Storage 
+> 📦 116.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,22 +84,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    77 commits     ███████░░░░░░░░░░░░░░░░░░   28.0% 
-🌆 Daytime    123 commits    ███████████░░░░░░░░░░░░░░   44.73% 
-🌃 Evening    74 commits     ██████░░░░░░░░░░░░░░░░░░░   26.91% 
+🌞 Morning    77 commits     ███████░░░░░░░░░░░░░░░░░░   27.8% 
+🌆 Daytime    123 commits    ███████████░░░░░░░░░░░░░░   44.4% 
+🌃 Evening    76 commits     ██████░░░░░░░░░░░░░░░░░░░   27.44% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
-Wednesday    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
-Thursday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
-Friday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
-Saturday     55 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Sunday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45%
+Monday       34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
+Tuesday      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.72% 
+Wednesday    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+Thursday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
+Friday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Saturday     55 commits     █████░░░░░░░░░░░░░░░░░░░░   19.86% 
+Sunday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36%
 
 ```
 
@@ -115,7 +115,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
