@@ -125,11 +125,11 @@ No Activity Tracked This Week
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
 <p align="center">
-<a href="mailto:bharatclan668@gmail.com"><img alt="mail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
+<a href= "https://twitter.com/Kashish61150051"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+<a href="mailto:kashishgoyal961@gmail.com"><img alt="mail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
 <a href="https://github.com/KashishGoyal905"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/KashishGoyal905"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <a href= "https://www.instagram.com/kashu_since_2003/?hl=en"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-
 </p>
 
 ### <h1>Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My [repositories](https://github.com/KashishGoyal905?tab=repositories)!<img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/Rocket.gif" width="25px"></h1>
