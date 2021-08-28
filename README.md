@@ -30,6 +30,7 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
   <a><img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" width="48" height="48"/></a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+	<a><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
   <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
  <a> <img src="https://img.icons8.com/dotty/80/fa314a/sql.png" width="48" height="48"/> </a>
