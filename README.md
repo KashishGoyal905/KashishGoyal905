@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: [Instagram](https://www.instagram.com/kashish_._goyal/?hl=en), [LinkedIn](https://www.linkedin.com/in/KashishGoyal905), [Twitter](https://twitter.com/KashishGoyal905)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Lists** are better than large **paragraph**
+- ⚡ Fun fact: Have Some Little **Faith**
 
 
 ### Tools and Languages:-
