@@ -21,6 +21,7 @@
 	<a><img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/GitKraken.png" width="48" height="48"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+	 <a><img src="https://img.icons8.com/plasticine/48/000000/react.png"/></a>
  <a><img src="https://img.icons8.com/officel/50/4a90e2/java-eclipse.png" width="48" height="48"/></a>
  <a><img src="https://img.icons8.com/wired/64/fa314a/postman-api.png" width="48" height="48"/></a>
 	<a><img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="48" height="48"/></a>
