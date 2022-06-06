@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px">,I'm Kashish! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25px"></h1>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0px">,I'm Kashish! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25px"></h1>
 
 
 ## 🙋‍♂️ About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25px">
