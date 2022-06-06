@@ -1,6 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0px">,I'm Kashish! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25px"></h1>
+<h1 align="center"> Hi
+<!-- 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0px"> -->
+	,I'm Kashish! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25px"></h1>
 
 
 ## 🙋‍♂️ About Me 
@@ -49,7 +51,8 @@
     </a>
 </p>
 
-## 📊 My Github Stats <img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/Developer.gif" width="45px">
+## 📊 My Github Stats
+<!-- <img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/Developer.gif" width="45px"> -->
   <br/>
     <a href="https://github.com/KashishGoyal905/github-readme-stats"><img alt="Kashish Goyal Github Stats" src="https://github-readme-stats.vercel.app/api?username=KashishGoyal905&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/KashishGoyal905/github-readme-stats"><img alt="Kashish Goyal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashishGoyal905&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
@@ -133,7 +136,7 @@ C++                      0 secs              ░░░░░░░░░░░�
 
 
 <!-- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> -->
-	Connect with me:
+Connect with me:
 <p align="center">
 <a href= "https://twitter.com/KashishGoyal905"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 <a href="mailto:kashishgoyal961@gmail.com"><img alt="mail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
@@ -142,9 +145,9 @@ C++                      0 secs              ░░░░░░░░░░░�
 <a href= "https://www.instagram.com/kashu_since_2003/?hl=en"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-### <h1>Show Some ❤️ By
+### <h1>Show Some ❤️
 <!-- 	<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> -->
-	My [repositories](https://github.com/KashishGoyal905?tab=repositories)!
+<!-- 	My [repositories](https://github.com/KashishGoyal905?tab=repositories)! -->
 <!-- 	<img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/Rocket.gif" width="25px"></h1> -->
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 </div>
