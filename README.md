@@ -7,12 +7,9 @@
 
 ## 🙋‍♂️ About Me 
 <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25px"> -->
-- 🔭 I’m currently working on [Codeial](https://github.com/KashishGoyal905/Codeial)
-- 🌱 I’m currently learning **C++ & oracle sql**
+- 🌱 I’m currently learning **java**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: [Instagram](https://www.instagram.com/kashish_._goyal/?hl=en), [LinkedIn](https://www.linkedin.com/in/KashishGoyal905), [Twitter](https://twitter.com/KashishGoyal905)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: Have Some Little **Faith**
 
 
 ### Tools and Languages:-
