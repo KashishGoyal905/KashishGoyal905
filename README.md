@@ -69,9 +69,9 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102%20Thousand%20lines%20of%20code-blue)
 
@@ -125,7 +125,7 @@ JSON                     14 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 20/08/2022 00:59:48 UTC
+ Last Updated on 21/08/2022 01:01:54 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
