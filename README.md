@@ -69,17 +69,17 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 348 Contributions in the Year 2022
+> 🏆 345 Contributions in the Year 2022
  > 
-> 📦 142.9 kB Used in GitHub's Storage 
+> 📦 141.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,8 +87,44 @@
  > 
 > 🔑 6 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 05/09/2022 01:17:48 UTC
+```text
+🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
+🌆 Daytime    130 commits    ███████░░░░░░░░░░░░░░░░░░   30.37% 
+🌃 Evening    198 commits    ███████████░░░░░░░░░░░░░░   46.26% 
+🌙 Night      45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       74 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
+Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
+Wednesday    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
+Thursday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Sunday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+HTML                     44 mins             ███████████████░░░░░░░░░░   60.16% 
+CSS                      16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85% 
+JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
+Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+ Last Updated on 06/09/2022 01:10:43 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
