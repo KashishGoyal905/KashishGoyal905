@@ -136,7 +136,7 @@ C++                      1 min               ░░░░░░░░░░░�
 <!-- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> -->
 Connect with me:
 <p align="center">
-<a href= "https://twitter.com/KashishGoyal905"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+                        <a href="https://twitter.com/KashishGoyal905"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt=""></a>
 <a href="mailto:kashishgoyal961@gmail.com"><img alt="mail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
 <a href="https://github.com/KashishGoyal905"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/KashishGoyal905"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
