@@ -69,7 +69,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,7 +79,7 @@
 
 > 🏆 9 Contributions in the Year 2023
  > 
-> 📦 188.8 kB Used in GitHub's Storage 
+> 📦 188.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,7 +125,7 @@ Bash                     4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/01/2023 00:58:44 UTC
+ Last Updated on 16/01/2023 00:54:43 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
