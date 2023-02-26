@@ -69,7 +69,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,7 +77,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 188.8 kB Used in GitHub's Storage 
+> 📦 188.9 kB Used in GitHub's Storage 
  > 
 > 🏆 29 Contributions in the Year 2023
  > 
@@ -122,7 +122,7 @@ JavaScript               7 mins              ███░░░░░░░░�
 ```
 
 
- Last Updated on 25/02/2023 00:52:30 UTC
+ Last Updated on 26/02/2023 00:57:27 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
