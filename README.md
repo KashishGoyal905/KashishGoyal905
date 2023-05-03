@@ -69,7 +69,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -119,7 +119,7 @@ Text                     9 mins              ███████████�
 ```
 
 
- Last Updated on 02/05/2023 00:46:13 UTC
+ Last Updated on 03/05/2023 00:49:18 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
