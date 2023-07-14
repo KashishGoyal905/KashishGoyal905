@@ -69,7 +69,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,7 +118,7 @@ Java                     42 mins             ███████████�
 ```
 
 
- Last Updated on 13/07/2023 01:00:14 UTC
+ Last Updated on 14/07/2023 01:00:05 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
