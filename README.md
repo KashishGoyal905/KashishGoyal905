@@ -69,7 +69,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -122,7 +122,7 @@ Git Config               0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/07/2023 00:52:51 UTC
+ Last Updated on 23/07/2023 00:55:11 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
