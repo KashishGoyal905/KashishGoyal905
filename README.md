@@ -114,11 +114,11 @@ Sunday                   162 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     55 mins             █████████████████████████   100.00 % 
+JavaScript               7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/08/2023 00:45:36 UTC
+ Last Updated on 06/08/2023 00:43:10 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
