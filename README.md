@@ -114,12 +114,11 @@ Sunday                   168 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 30 mins        █████████████░░░░░░░░░░░░   52.23 % 
-CSS                      1 hr 22 mins        ████████████░░░░░░░░░░░░░   47.77 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/09/2023 00:40:10 UTC
+ Last Updated on 14/09/2023 00:40:05 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
