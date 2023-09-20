@@ -69,7 +69,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -119,7 +119,7 @@ EJS                      12 mins             █████████░░�
 ```
 
 
- Last Updated on 19/09/2023 00:40:37 UTC
+ Last Updated on 20/09/2023 00:40:06 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
