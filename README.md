@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-984.0%20thousand%20lines%20of%20code-blue)
 
@@ -118,7 +118,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/10/2023 00:41:28 UTC
+ Last Updated on 31/10/2023 00:41:24 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
