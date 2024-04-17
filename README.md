@@ -69,7 +69,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -112,15 +112,15 @@ Sunday                   168 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 55 mins        ████████████████░░░░░░░░░   64.09 % 
-CSS                      57 mins             ████████░░░░░░░░░░░░░░░░░   31.76 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JavaScript               2 hrs 38 mins       █████████████████░░░░░░░░   66.01 % 
+CSS                      1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 
- Last Updated on 16/04/2024 00:41:26 UTC
+ Last Updated on 17/04/2024 00:42:28 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
