@@ -68,7 +68,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -77,8 +77,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 225.9 kB Used in GitHub's Storage 
- > 
-> 🏆 266 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,7 +115,7 @@ JavaScript               2 hrs 23 mins       ███████████�
 ```
 
 
- Last Updated on 24/08/2024 00:48:20 UTC
+ Last Updated on 25/08/2024 00:54:35 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
