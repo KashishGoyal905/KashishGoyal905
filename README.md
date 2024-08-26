@@ -78,6 +78,8 @@
 
 > 📦 225.9 kB Used in GitHub's Storage 
  > 
+> 🏆 266 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 63 Public Repositories 
@@ -111,11 +113,11 @@ Sunday                   213 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 23 mins       █████████████████████████   100.00 % 
+JavaScript               2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/08/2024 00:54:35 UTC
+ Last Updated on 26/08/2024 00:51:04 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
