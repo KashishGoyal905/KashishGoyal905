@@ -68,17 +68,15 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-707%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 225.9 kB Used in GitHub's Storage 
+> 📦 226.1 kB Used in GitHub's Storage 
  > 
-> 🏆 269 Contributions in the Year 2024
+> 🏆 272 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,38 +84,8 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                361 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-🌆 Daytime                669 commits         █████████░░░░░░░░░░░░░░░░   35.40 % 
-🌃 Evening                715 commits         █████████░░░░░░░░░░░░░░░░   37.83 % 
-🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Tuesday                  213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Wednesday                299 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Thursday                 359 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Friday                   286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Saturday                 244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Sunday                   213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               31 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 08/09/2024 00:57:14 UTC
+ Last Updated on 09/09/2024 00:54:50 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
