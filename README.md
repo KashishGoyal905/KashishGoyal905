@@ -68,7 +68,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,8 +77,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 226.0 kB Used in GitHub's Storage 
- > 
-> 🏆 289 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,15 +111,14 @@ Sunday                   218 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 40 mins        ███████████████████████░░   91.81 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JavaScript               1 hr                ██████████████████████░░░   88.86 % 
+HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 
- Last Updated on 18/09/2024 00:53:42 UTC
+ Last Updated on 19/09/2024 00:54:03 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
