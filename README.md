@@ -68,7 +68,7 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -117,7 +117,7 @@ JavaScript               31 mins             ███████████�
 ```
 
 
- Last Updated on 17/10/2024 00:56:19 UTC
+ Last Updated on 18/10/2024 00:55:54 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
