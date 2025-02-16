@@ -68,8 +68,6 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%201%20min-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
@@ -77,8 +75,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 226.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,7 +113,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/02/2025 00:56:03 UTC
+ Last Updated on 16/02/2025 01:00:46 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
