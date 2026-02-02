@@ -68,8 +68,6 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-720%20hrs%2047%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
@@ -117,7 +115,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/02/2026 01:45:29 UTC
+ Last Updated on 02/02/2026 01:26:14 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
