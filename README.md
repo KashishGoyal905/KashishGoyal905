@@ -68,15 +68,17 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-720%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 226.6 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2026
+> 🏆 36 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,8 +86,38 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 18/05/2026 02:39:36 UTC
+```text
+🌞 Morning                361 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+🌆 Daytime                687 commits         █████████░░░░░░░░░░░░░░░░   34.56 % 
+🌃 Evening                795 commits         ██████████░░░░░░░░░░░░░░░   39.99 % 
+🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   289 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Tuesday                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Thursday                 369 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Friday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Saturday                 274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Sunday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 19/05/2026 02:37:35 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
