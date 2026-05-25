@@ -68,13 +68,15 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-720%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 226.6 kB Used in GitHub's Storage 
+> 📦 226.8 kB Used in GitHub's Storage 
  > 
 > 🏆 36 Contributions in the Year 2026
  > 
@@ -87,21 +89,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-🌆 Daytime                688 commits         █████████░░░░░░░░░░░░░░░░   34.50 % 
-🌃 Evening                799 commits         ██████████░░░░░░░░░░░░░░░   40.07 % 
-🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+🌞 Morning                362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+🌆 Daytime                689 commits         █████████░░░░░░░░░░░░░░░░   34.52 % 
+🌃 Evening                800 commits         ██████████░░░░░░░░░░░░░░░   40.08 % 
+🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Tuesday                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Wednesday                306 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Thursday                 370 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Friday                   293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Saturday                 274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Sunday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Monday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Tuesday                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Wednesday                306 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Thursday                 370 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Friday                   293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Saturday                 274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Sunday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 ```
 
 
@@ -115,7 +117,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/05/2026 02:36:45 UTC
+ Last Updated on 25/05/2026 02:45:57 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
