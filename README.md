@@ -68,6 +68,8 @@
 <a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-720%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.78%20million%20lines%20of%20code-blue?style=flat)
@@ -84,8 +86,38 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 25/07/2026 02:00:07 UTC
+```text
+🌞 Morning                365 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌆 Daytime                699 commits         █████████░░░░░░░░░░░░░░░░   34.37 % 
+🌃 Evening                818 commits         ██████████░░░░░░░░░░░░░░░   40.22 % 
+🌙 Night                  152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Tuesday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Wednesday                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Thursday                 380 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Friday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Saturday                 278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Sunday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 26/07/2026 02:04:13 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
