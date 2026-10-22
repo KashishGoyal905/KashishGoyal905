@@ -113,17 +113,36 @@ Sunday                   239 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     6 mins              ██████████████░░░░░░░░░░░   55.81 % 
+YAML                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+XML                      2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 mins (100.0%)
+
+✍️ 91 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 150,043 Input Tokens, 32,103 Output Tokens
+
+💵 $0.93 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Sonnet                   186 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 38 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 02:47:32 UTC
+ Last Updated on 22/10/2026 02:45:36 UTC
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
